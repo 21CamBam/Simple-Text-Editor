@@ -1,0 +1,1 @@
+The "New" option under "File" simply clears the textbox.
